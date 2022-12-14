@@ -9,7 +9,7 @@ setup(
     author = "Vladislav Filippov",
     author_email = "philippov@reg.ru",
     keywords = ["dbconnector"],
-    url = "",
+    url = "https://github.com/topigy07/connector",
     install_requires = [
         "python-dotenv", "pyyaml", "pandas", "numpy",
         "pymysql", "psycopg2-binary", "clickhouse-sqlalchemy==0.1.7"
